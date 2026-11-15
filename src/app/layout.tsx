@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "MyLink - 마이링크",
-  description: "나만의 링크를 한곳에서 공유하는 마이링크 페이지",
+  title: "손우현 (우디후디) - MyLink",
+  description: "한양대 융합전자공학부 손우현의 마이링크 페이지입니다.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

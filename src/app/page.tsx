@@ -10,19 +10,19 @@ interface LinkItem {
 }
 
 const profileData = {
-  name: "MyLink",
-  handle: "@mylink_user",
-  bio: "✨ 배움과 성장을 기록하는 개발자 공간입니다. 함께 연결되고 소통해요!",
-  avatarEmoji: "🚀",
-  tags: ["#Nextjs", "#TypeScript", "#Frontend", "#Developer"],
+  name: "손우현 (우디후디)",
+  handle: "@son209807",
+  bio: "🦁 한양대학교 융합전자공학부 학생입니다. 하드웨어와 소프트웨어의 경계를 넘나들며 배우고 성장합니다.",
+  avatarEmoji: "🦁",
+  tags: ["#한양대학교", "#융합전자공학부", "#우디후디", "#Engineering", "#Tech"],
 };
 
 const linkItems: LinkItem[] = [
   {
     id: "github",
     title: "GitHub 저장소",
-    subtitle: "프로젝트 코드 및 실습 저장소",
-    url: "https://github.com",
+    subtitle: "프로젝트 코드 및 실습 저장소 (@son209807-png)",
+    url: "https://github.com/son209807-png",
     icon: "🐙",
   },
   {
